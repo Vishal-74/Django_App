@@ -1,4 +1,4 @@
-```markdown
+
 # Demo Full-Stack Application with Django and REST framework
 
 ## Overview
