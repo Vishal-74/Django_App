@@ -76,5 +76,4 @@ Admin Controls
    ```
 
 7. Open your web browser and go to [http://localhost:8000/tweet](http://localhost:8000/tweet)
-```
-.
+
