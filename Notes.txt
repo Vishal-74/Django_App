@@ -1,0 +1,23 @@
+SETUP
+- created a virtual environment
+- django-admin startproject HQ
+- python .\manage.py runserver      #runserver
+- for migration
+    python manage.py makemigrations
+    python manage.py migrate
+- Create superUser                  #admin control
+    python manage.py createsuperuser
+
+WE EXPECT IMAGES IN FUTURE
+- we should have pillow installed
+- we setup media config in settings.py
+- static config to store static files
+    sometimes we need to store static in urls so we go in urls.py
+
+SETUP COMPLETED NOW WE MAKE APPS
+- python manage.py startapp tweet
+- create urls.py and copy from other urls.py
+
+WE inform that we have new APPS
+- go in urls.py
+- go in setting.py to setup template and installed APPS
